@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace exercicio_01
+namespace estruturaSeq-exer01
 {
     class Program
     {
